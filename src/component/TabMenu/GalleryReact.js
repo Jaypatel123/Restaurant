@@ -1,5 +1,5 @@
 import React, {useState} from 'react'
-import "../TabMenu/tab.css";
+import "./tab.css";
 import Menu from "./menu";
 
 const GalleryReact = () => {
